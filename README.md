@@ -22,3 +22,4 @@
 1. esc  - command mode
 1. i - insert mode
 1. NEW ADDITION
+1 THIS IS ME BY MYSELF
