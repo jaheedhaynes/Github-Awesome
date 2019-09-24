@@ -21,3 +21,4 @@
 1. :wq save and exits
 1. esc  - command mode
 1. i - insert mode
+1. NEW ADDITION
