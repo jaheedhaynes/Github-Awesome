@@ -3,21 +3,21 @@
 ## Git commands
 
 1. git init
-git status
-git add
-git push
-git log
+1. git status
+1. git add
+1. git push
+1. git log
 
 ## Terminal
 
-ls
-cd
-touch
-rm - deletes files
-rm -rf deletes a directory
+1. ls
+1. cd
+1. touch
+1. rm - deletes files
+1. rm -rf deletes a directory
 
 
 ## VI (visual editor)
-:wq save and exits
-esc  - command mode
-i - insert mode
+1. :wq save and exits
+1. esc  - command mode
+1. i - insert mode
