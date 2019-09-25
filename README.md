@@ -21,6 +21,8 @@
 1. :wq save and exits
 1. esc  - command mode
 1. i - insert mode
+
+## SOLO DOLO
 1. NEW ADDITION
 1. THIS IS ME BY MYSELF
 
